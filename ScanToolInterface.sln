@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ScanToolInterface", "ScanToolInterface\ScanToolInterface.pyproj", "{662296C9-1BB0-464F-81AC-EC715AA0DDF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662296C9-1BB0-464F-81AC-EC715AA0DDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662296C9-1BB0-464F-81AC-EC715AA0DDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {085B8E26-995F-4860-8699-63BFB2E3E8EF}
+	EndGlobalSection
+EndGlobal
